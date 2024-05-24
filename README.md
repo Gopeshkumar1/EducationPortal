@@ -1,2 +1,2 @@
-# EducationPortal
-I developed this website Usin LWC and Apex .To see the website using https://danocloudtechnology8-dev-ed.develop.my.site.com/
+# educationportal
+I developed this website using LWC and Apex.To see the website use https://danocloudtechnology8-dev-ed.develop.my.site.com/
